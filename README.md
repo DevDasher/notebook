@@ -13,3 +13,8 @@ A simple notebook app with Laravel (یک پروژه ساده دفترچه یاد
 
 PREVIEW (پیش نمایش) :
 
+![msg-1812876546-1932](https://user-images.githubusercontent.com/78247242/233648448-cd0d6eec-0f84-4046-8099-7a8c7fdcb472.jpg)
+
+![msg-1812876546-1933](https://user-images.githubusercontent.com/78247242/233648453-9ca499af-bb2c-42a9-8ba6-bc500c679837.jpg)
+
+![msg-1812876546-1934](https://user-images.githubusercontent.com/78247242/233648463-5504eabf-9c44-44ea-98f7-433a78cb8c1f.jpg)
